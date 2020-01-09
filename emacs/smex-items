@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ replace-regexp
+ whitespace-cleanup
+ ansi-term
+ revert-buffer
+ customize
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (customize . 1)
+ (tramp-cleanup-this-connection . 2)
+ (revert-buffer . 2)
+ (whitespace-cleanup . 3)
+ (ansi-term . 2)
+ (replace-regexp . 5)
+)

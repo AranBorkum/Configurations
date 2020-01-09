@@ -1,0 +1,407 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/Latex-Template/" . "sections/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/" . "Latex-Template/")
+ ("/Users/aranborkum/Desktop/Geometry Layer Testing/" . "wire testing/")
+ ("/Users/aranborkum/Desktop/Waveform-Tools/python/" . "protodune/")
+ ("/Users/aranborkum/Desktop/Waveform-Tools/" . "python/")
+ ("/Users/aranborkum/Docterate/Presentations/" . "Background Task Force/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/srcs/dunetpc/dune/" . "DAQSimAna/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/srcs/dunetpc/" . "dune/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/srcs/" . "dunetpc/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/" . "srcs/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/" . "larfd/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/" . "duneggd/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/" . "root/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/test/" . "ggdex/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/" . "larfd/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/" . "duneggd/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/" . "python/")
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/" . "duneggd/")
+ ("/Users/aranborkum/Docterate/Plotting/config/" . "inputs/")
+ ("/Users/aranborkum/Docterate/Plotting/" . "config/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/PlottingPackage/" . "config/")
+ ("/ssh:borkuma@34.254.177.131:roadnet/script/" . "Scripts/")
+ ("/ssh:borkuma@34.254.177.131:roadnet/" . "script/")
+ ("/ssh:borkuma@34.254.177.131:" . "roadnet/")
+ ("/ssh:borkuma@34.249.111.180:/home/borkuma/roadnet/script/" . "Scripts/")
+ ("/ssh:borkuma@34.249.111.180:/home/borkuma/roadnet/" . "script/")
+ ("/ssh:borkuma@34.249.111.180:/home/borkuma/" . "roadnet/")
+ ("/ssh:borkuma@34.249.111.180:/home/" . "borkuma/")
+ ("/ssh:borkuma@34.249.111.180:/" . "home/")
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/" . "syst/")
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/" . "vars/")
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/" . "plotting/")
+ ("/ssh:borkuma@34.255.161.236:roadnet/script/PlottingTest/" . "Utilities/")
+ ("/ssh:borkuma@34.255.161.236:roadnet/script/" . "PlottingTest/")
+ ("/ssh:borkuma@34.255.161.236:roadnet/" . "script/")
+ ("/ssh:borkuma@34.255.161.236:" . "roadnet/")
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/" . "plotting/")
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/" . "Python/")
+ ("/ssh:borkuma@54.154.11.78:roadnet/script/" . "PSQL-Tests/")
+ ("/ssh:borkuma@54.154.11.78:roadnet/" . "script/")
+ ("/ssh:borkuma@54.154.11.78:/home/borkuma/PSQL-Tests/" . "Utilities/")
+ ("/ssh:borkuma@54.154.11.78:/home/borkuma/" . "PSQL-Tests/")
+ ("/ssh:borkuma@54.154.11.78:PSQL-Tests/" . "Utilities/")
+ ("/Users/aranborkum/Red-Optima/" . "PSQL-Tests/")
+ ("/ssh:borkuma@54.154.11.78:" . "roadnet/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data2/users/aborkum/" . "Water10cm/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data2/users/" . "aborkum/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data2/" . "users/")
+ ("/Users/aranborkum/University/Year 3/MPhys Labs/" . "HPGe/")
+ ("/Users/aranborkum/University/Year 3/" . "MPhys Labs/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/Aran-example/" . "ggdex/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/gegede-example/" . "ggdex/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/" . "larfd/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/" . "duneggd/")
+ ("/Users/aranborkum/Docterate/Projects/duneggd/" . "python/")
+ ("/Users/aranborkum/Docterate/Other/DISCnet/" . "Network/")
+ ("/Users/aranborkum/General/MCMoney-Maker/MCCPP/" . "source/")
+ ("/Users/aranborkum/General/MCMoney-Maker/" . "Utilities/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/fcl/dunefd/gen/" . "background/")
+ ("/Users/aranborkum/Docterate/Projects/Neutrons/" . "NeutronBackgrounRates/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/dune/LinHitFinder/" . "HitDumper/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/fcl/dunefd/" . "gen/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/fcl/" . "dunefd/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Neutrons/" . "SimplePGuns/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/localProducts_larsoft_v08_09_00_e17_prof/" . "larreco/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/dune/DAQSimAna/" . "SNAnaClustering/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/dune/" . "TestGeoAna/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/" . "dune/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/larreco/larreco/" . "HitFinder/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/larreco/" . "larreco/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/" . "dunetpc/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/" . "srcs/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/v08_08_00_prof_e17/srcs/dunetpc/dune/DAQSimAna/" . "SNAnaClustering/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/v08_08_00_prof_e17/srcs/dunetpc/dune/" . "DAQSimAna/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/v08_08_00_prof_e17/srcs/dunetpc/" . "dune/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/v08_08_00_prof_e17/srcs/" . "dunetpc/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/v08_08_00_prof_e17/" . "srcs/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/dunetpc/dune/DAQSimAna/" . "SNAnaClustering/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/larreco/larreco/" . "HitFinder/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/larreco/" . "larreco/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TriggerStudies/" . "Parameters/")
+ ("/Users/aranborkum/Docterate/Projects/" . "GeometryStuff/")
+ ("/Users/aranborkum/General/ComaSimulator/src/" . "ObjectDefinition/")
+ ("/Users/aranborkum/General/ComaSimulator/" . "src/")
+ ("/Users/aranborkum/General/" . "MCMoney-Maker/")
+ ("/Users/aranborkum/Docterate/Other/Starting To Teach/Starting To Teach Written Assignment/" . "sections/")
+ ("/Users/aranborkum/Docterate/Other/Starting To Teach/" . "Starting To Teach Written Assignment/")
+ ("/Users/aranborkum/Docterate/Other/" . "DISCnet/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/dunetpc/dune/" . "DAQSimAna/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/dunetpc/" . "dune/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/srcs/" . "dunetpc/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Dune-Fresh/" . "srcs/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/dune/app/users/aborkum/Clustering/" . "clustering/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/dune/app/users/aborkum/" . "Clustering/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/dune/app/users/" . "aborkum/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/dune/app/" . "users/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/dune/" . "app/")
+ ("/ssh:aborkum@dunegpvm08.fnal.gov:/" . "dune/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/dune/app/users/aborkum/Clustering/" . "clustering/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/dune/app/users/aborkum/" . "Clustering/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/dune/app/users/" . "aborkum/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/dune/app/" . "users/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/dune/" . "app/")
+ ("/ssh:aborkum@dunegpvm03.fnal.gov:/" . "dune/")
+ ("/Users/aranborkum/Desktop/ComaSimulator/src/" . "ObjectDefinition/")
+ ("/Users/aranborkum/University/Year 4/Programming in C++/i2ccp/" . "CEX/")
+ ("/Users/aranborkum/University/Year 4/Programming in C++/" . "i2ccp/")
+ ("/Users/aranborkum/University/Year 4/" . "Programming in C++/")
+ ("/Users/aranborkum/University/" . "Year 4/")
+ ("/Users/aranborkum/Desktop/ComaSimulator/" . "src/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/plasorak/Clustering/" . "clustering/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/plasorak/" . "Clustering/")
+ ("/Users/aranborkum/Desktop/Threshold Table/" . "sections/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data/users/aborkum/" . "study_FullGeometry/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data/users/" . "aborkum/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data/" . "users/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:" . "days/")
+ ("/Users/aranborkum/Desktop/Threshold/" . "build/")
+ ("/Users/aranborkum/Desktop/" . "Geometry Layer Testing/")
+ ("/Users/" . "aranborkum/")
+ ("/" . "Users/")
+ ("/Users/aranborkum/Docterate/Scripts/Clustering/" . "clustering/")
+ ("/Users/aranborkum/Docterate/Scripts/" . "Plotting/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Clustering/" . "clustering/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/" . "waveform-tools/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/" . "aborkum/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/" . "users/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/dune/" . "app/")
+ ("/ssh:aborkum@dunegpvm02.fnal.gov:/" . "dune/")
+ ("/Users/aranborkum/Docterate/Clustering/" . "clustering/")
+ ("/Users/aranborkum/Docterate/" . "Projects/")
+ ("/Users/aranborkum/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/larfd/"
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/TestArena/"
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/Latex-Template/sections/"
+ "/Users/aranborkum/Desktop/Geometry Layer Testing/wire testing/"
+ "/Users/aranborkum/Desktop/"
+ "/Users/aranborkum/Desktop/Waveform-Tools/"
+ "/Users/aranborkum/Desktop/Waveform-Tools/python/protodune/"
+ "/Users/aranborkum/Docterate/Presentations/Background Task Force/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/waveform-tools/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/ArbitraryAna/"
+ "/Users/aranborkum/Desktop/PierreHits/"
+ "/Users/aranborkum/"
+ "/Users/aranborkum/Docterate/Projects/WaveformPortfolio/"
+ "/Users/aranborkum/Docterate/Projects/NeuralNetwork_hitFinder/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/srcs/dunetpc/dune/DAQSimAna/"
+ "/Users/aranborkum/Desktop/LinHit/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/dune/TestGeoAna/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/DuneFresh/srcs/dunetpc/dune/ArbitraryAnalysis/"
+ "/Users/aranborkum/Downloads/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/data/users/aborkum/InductionHitFinding/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/TestRelease/srcs/dunetpc/dune/SimplePGuns/"
+ "/Users/aranborkum/Docterate/Projects/duneggd-old/root/"
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/test/"
+ "/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/larfd/"
+ "/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/dunefd/"
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/test/ggdex/"
+ "/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/onion/"
+ "/Users/aranborkum/University/Year 4/Programming in C++/i2ccp/CEX/"
+ "/Users/aranborkum/Docterate/Plotting/config/inputs/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/PlottingPackage/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/Clustering/clustering/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/PlottingPackage/config/"
+ "/ssh:aborkum@dunegpvm02.fnal.gov:/dune/app/users/aborkum/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/plotting/"
+ "/ssh:borkuma@34.254.177.131:roadnet/script/Scripts/"
+ "/ssh:borkuma@34.249.111.180:/home/borkuma/roadnet/script/Scripts/"
+ "/ssh:borkuma@34.249.111.180:/home/borkuma/roadnet/script/SQL/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/regions/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/vars/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/inputs/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/config/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/config/syst/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/syst/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/config/vars/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/config/regions/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/config/inputs/"
+ "/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/utilities/"
+ "/Users/aranborkum/Docterate/Projects/PrettyPython/utilities/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "APAFrame.py"
+ "Frame.py"
+ "Cryostat.py"
+ "larfd.cfg"
+ "DetEncLAr.py"
+ "appendixA.tex"
+ "introduction.tex"
+ "introduction.log"
+ "World.py"
+ "TPCPlane.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/aranborkum/Desktop/" (24085 54204 82991 731000) "LinHit/" "tpc_1.pdf" "mould2.jpg" "runSum.txt" "runSumSnap.txt" "mould3.jpg" "mould1.jpg" "protodune.pdf" "BaseEveIdCalculator_neutron_0_g4_detsim_reco.root" "runSumTest.txt" "mould4.jpg" "Journal.pages" "efficiency.pdf" "runnSum.txt" "Photo Backup-05-11-2019/" ".ipynb_checkpoints/" "workspace.pdf" "runSumA_1.txt" "eventDisplay.pdf" "PierreHits/" "Running_Sum_Stages.png" "Geneva Spending.xlsx" "HitInformation.txt" "Geometry Layer Testing/" "test.pdf" "HitFinderAnalysis.txt" "IQR.txt" "Holder/" "wirePlacements.png" "Relocated Items/" "Screenshot 2020-01-07 at 15.22.48.png" "Induction_wire_hit_finder.key" "protoduneEDnoHits.pdf" "plotHits.py" "IQRPlotting.py" "waveform.pdf" "Waveform-Tools/" "Screenshot 2019-12-05 at 10.57.44.png" ".localized" "HitFinderAnalysis.py" "figure_1.png" "Screenshot 2019-12-05 at 10.57.34.png" "Induction_Wire_Hit_Finding.key" ".DS_Store" "Trigger/" "protoduneED.pdf" ".txt" "filtered.txt" "raw.txt" "DataAna_runsum_hist.root" "ArbitraryAna.root" "pedsub.txt" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/larfd/" (24085 54744 647311 613000) "larfd.cfg" "larfd_airall_short.gdml" "MockEmptyCryostat.py" "larfd_short_airDSS.gdml" "TPCPlane.py" "viewer.png" "FieldCage.py" "larfd_short_airDSS_nowires.gdml" "larfd_airDSS_nowires.gdml" "checkOverlaps.C" "Fermi test APA_Electronics channel to wire segment mapping-FEMB-WIB-2.xlsx" "larfd_allair_nowires.gdml" "beamline_point_walk.txt" "WirePosU.txt" "PDS.py" "Cryostat.py" "larfd_allDSS.gdml" "larfd_short_allair_nowires.gdml" "cryoTemp.py" "volume_beam.txt" "larfd_short_allair.gdml" "larfd_airIns.gdml" "WirePosV.txt" "TPC.pyc" "TPCPlane.pyc" "APAFrame.py" "larfd_allIns_nowires.gdml" "U-low-wires.txt" "TPC.py" "larfd_airDSS_short.gdml" "~$Aran-Sheet.xlsx" "__init__.pyc" "CalculateBeamVolume.py" "DetEncLAr.pyc" "larfd_40cm.gdml" "MakeWire.py" "larfd_short.gdml" "drawTPC.C" "larfd_50cm.gdml" "larfd_10cm_nowires.gdml" "larfd_airIns_short_nowires.gdml" "larfd_nowires.gdml" "WirePlacement.py" "drawWires.C" "Cryostat.pyc" "larfd_airall_short_nowires.gdml" "drawLarFD.root" "point_walk.C" "FieldCage.pyc" "larfd_airDSS.gdml" "LightPaddle.py" "larfd_40cm_nowires.gdml" "larfd_allIns.gdml" "larfd_nowires.cfg" "BeamStructure.py" "__init__.py" "Electronics channel to wire segment mapping.xlsx" "larfd_10cm.gdml" "test.gdml" "larfd_30cm_nowires.gdml" "Aran-Sheet.xlsx" "x_axis_point_walk.txt" "larfd_airDSS_short_nowires.gdml" "larfd_allair.gdml" "larfd_short_airIns.gdml" "info.txt" "larfd.gdml" "_nowires.gdml" "APAFrame.pyc" "Images/" "larfd_short_airIns_nowires.gdml" "WirePosZ.txt" "larfd_20cm_nowires.gdml" "CheckWires.py" "World.pyc" "larfd_airIns_nowires.gdml" "larfd_30cm.gdml" "LightPaddle.pyc" ".DS_Store" "DetEncLAr.py" "larfd_short_nowires.gdml" "larfd_allDSS_nowires.gdml" "World.py" "drawLArFD.C" "larfd_50cm_nowires.gdml" "larfd_airIns_short.gdml" "larfd_20cm.gdml" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/Latex-Template/sections/" (24085 50361 701276 226000) "packages.tex" "frontPage.tex" "preface.tex" "introduction.tex" ".#appendixA.tex" "abstract.tex" "conclusion.tex" "backgrounds.tex" "frontPage.log" "appendixA.tex" "apparatus.tex" "introduction.log" ".DS_Store" "feynman.sty" "Acknowledgments.tex" "method.tex" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/Latex-Template/" (24085 50284 230357 277000) "DUNE FD Geometry.toc" "DUNE FD Geometry.tex" ".git/" "DUNE FD Geometry.out" "bibliography.bib" "DUNE FD Geometry.pdf" "DUNE FD Geometry.aux" "DUNE FD Geometry.log" "Pictures/" "DUNE FD Geometry.lof" "DUNE FD Geometry.synctex.gz" ".DS_Store" "sections/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/New Geometry Neutron/" (24022 41181 66003 397000) "FullGeometry_NormalInsulation_YZ.pdf" "Thermal Neutron Capture Gamma Rays in Iron.pdf" "FullGeometry_NormalInsulation_XY.pdf" "FullGeometry_ShortDownStreamDrift_YZ.pdf" "GenCenter/" "Neutron Test Full Geometry.key" "For Simon/" "FullGeometry_ShortDownStreamDrift_XY.pdf" "FullGeometry_NormalInsulation_NeutronSpectrum.pdf" "FullGeometry_noinsulation_test (dragged) 2.pdf" "Latex-Template/" "FullGeometry_noinsulation_test (dragged).pdf" "FullGeometry_ShortDownStreamDrift_gammaHist.pdf" ".DS_Store" "FullGeometry_NormalInsulation_gammaHist.pdf" "../" "./")
+
+ ("/Users/aranborkum/Desktop/Geometry Layer Testing/wire testing/" (24085 46192 349079 932000) "VWires.txt" "WirePoints.py" "wireTest.py" "XWires.txt" ".DS_Store" "UWires.txt" "../" "./")
+
+ ("/Users/aranborkum/Downloads/" (24084 21547 902120 60000) "Screenshot 2019-10-03 at 16.11.12.png" "mergeFiles.C" "VidyoConnectInstaller-macosx-TAG_VCOND_19_4_1_12115[p=https&h=vidyoportal.cern.ch&f=RzpJUENPOklQQ0k6TW9kOlBDOlB1YkM6Q0RSOkVQOlJQSTpCQTpOREM6Q1BSOk9BOjIyMDpQUjpTUjI6U1I=&r=4kye2TflkTVzKQEw8LVZenGlYU].dmg" "Me_Funny.png" "trigger-primitive-algorithm-note.pdf" "For Simon.key" "install_flash_player_osx.dmg" "NeutronEnergySpectrumConcrete.pdf" "Joint DUNE DAQ PPWG_DS Call-Event.ics" "ProtoDUNE-SP Operation Meeting-Event.ics" "VidyoConnect/" "CPA-FC-HV-Design-ver26.docx" "CCM Meeting-Event-1.ics" "SPP_Homework2_solutions.pdf" "eventDisplay.pdf" "Running_Sum_Stages.png" "Attestation-priseencharge.docx" "Franz-5.4.1.dmg" "SimplePGunAna_module.cc" "Franz-5.4.1-1.dmg" "UK DAQ meeting-Event-1.ics" "SPP_Homework1_solutions.pdf" "Induction Trigger Primatives.pdf" "DUNE DAQ_SC Meeting-Event.ics" "test.pdf" "~$rmA-MPS-2019-DoctoralResearcherQuestionnaire-1.docx" "Upstream DAQ Meeting-Event-2.ics" "SpotifyInstaller-1.zip" "Backgrounds TF Meeting-Event.ics" "DUNE DAQ Meeting-Event.ics" "Install Spotify.app/" "DUNE DAQ Physics Performance Working Group Meeting-Event.ics" "Upstream DAQ Meeting-Event-1.ics" "Generate_job.fcl" "Georgia_EPP_meeting-1.pptx" "Georgia_EPP_meeting.pptx" "InductionWirePlots_Iteration1-2.key" "Low Energy Physics Working Group-Event.ics" "WaveformDump_module.cc" "SpotifyInstaller.zip" "tmp16856-1.zip" "scan_sjp39_2019-11-05-10-59-06.pdf" "Second-year-slide.pdf" "Collaboration Monthly Call-Event.ics" "InductionWirePlots_Iteration1-1.key" "NewNNPFMemberPersonnel.doc" "DUNE DAQ Dataflow Meeting-Event-1.ics" "SimplePGunAna_job.fcl" "scan_sjp39_2019-11-05-13-12-36.pdf" "DUNE DAQ_SC Meeting-Event-2.ics" "SimplePGunAna.fcl" "Upstream DAQ Meeting-Event.ics" "web/" "Your Payment Receipt.pdf" "SPP_Homework3_solutions.pdf" "DUNE DAQ_SC Meeting-Event-1.ics" "Spotify-0.8.5.dmg" ".localized" "For Simon-1.key" "dune_timing_trilov.pptx" "Low Energy Physics Working Group Meeting-Event.ics" "problems_1.pdf" "DUNE DAQ Dataflow Meeting-Event.ics" ".DS_Store" "CMakeLists.txt" "Data Selection Working Group Meeting-Event.ics" "InductionWirePlots_Iteration1.key" "lta-guidance-2019.pdf" "dune_timing_trilov-1.pptx" "~$rmA-MPS-2019-DoctoralResearcherQuestionnaire.docx" "Backgrounds TF Meeting-Event-2.ics" "video-1569951312.mp4" "20191121_DUNE_Neutrons.pptx" "UK DAQ meeting-Event.ics" "PhysRevC.84.035804.pdf" "ATLauncher.zip" "CCM Meeting-Event.ics" "Backgrounds TF Meeting-Event-1.ics" "SPP_Problem_Sheet2.pdf" "Rules.pdf" "Install Spotify 2.app/" "Collaboration Monthly Call-Event-1.ics" "../" "./")
+
+ ("/Users/aranborkum/" (24084 22609 790122 104000) ".cmake/" ".conda/" ".viminfo" ".bash_history" "lxml/" "1000_1MeV_Betas_gen.root" ".serverauth.15744" "FullGeometry_test.pdf" ".gitconfig" ".inputrc" ".cache/" ".python_history" "Downloads/" ".Xauthority" "EventIndices.pdf" ".bash_profile" ".root_hist" ".mono/" "NeutronEnergySpectrum.pdf" "NeutronRates.png" "virtualenv-1.11.tar.gz" "Documents/" "Research-Feynman/" ".keras/" ".jupyter/" ".Trash/" "Applications/" "wavedump.pdf" ".emacs" "Movies/" ".ssh/" "test.org" ".pip/" ".anaconda/" "1000_1MeV_Neutrons_gen.root" "eventDisplay.pdf" ".cisco/" ".idlerc/" "GEANTCutOff.pdf" "HitAngularDistribution.pdf" ".bash_profile-anaconda3.bak" "Public/" ".bash_profile-anaconda2.bak" "test.pdf" ".bash_sessions/" "test.png" ".emacs.d/" ".bash_profile.pysave" "test2.png" ".oracle_jre_usage/" "University/" ".serverauth.806" ".matplotlib/" ".mputils/" "test1.png" "Library/" "Desktop/" ".ipython/" "git-cola/" "duneggd/" "Pictures/" "email.txt" ".bash_profile~" "ggdvenv/" "General/" ".subversion/" "mcc11.pdf" ".wget-hsts" "prodmarley_singles_gen.root" ".CFUserTextEncoding" "VirtualBox VMs/" "virtualenv-1.11/" "Red-Optima/" "Data-Fermilab/" ".DS_Store" "ParticleEndProcess.pdf" ".distlib/" "OneDrive - University of Sussex/" ".spyder/" ".docker/" "FullGeometry_normalInsulation.pdf" "App-Fermilab/" "Music/" ".config/" "Docterate/" ".serverauth.89261" "../" "./")
+
+ ("/Users/" (23984 61998 0 0) "Guest/" "aranborkum/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/aranborkum/Desktop/Geometry Layer Testing/" (24083 3233 234136 188000) "Neutron energy emission in LAr.png" "FullGeoAllAirSnubbed.txt" "FullGeo40cm.pdf" "FullGeoNormalMaterials.txt" "FullGeoNormalSnubbed.txt" "FullGeoAllAirSnubbed.pdf" "FullGeo40cm.txt" "FullGeoNormalMaterials.pdf" "FullGeoNormalSnubbed.pdf" "test.pdf" "FullGeoAirDSSSnubbed.txt" "FullGeo50cm.pdf" "FullGeoAirDSS.txt" "WaterShielding.py" "FullGeoAirIns.txt" "FullGeoAllAir.txt" "RunningSum.pdf" "FullGeoAirInsulationSnubbed.pdf" "wire testing/" "FullGeoAirDSSSnubbed.pdf" "BeacomNeutronRate.png" "FullGeo50cm.txt" ".DS_Store" "FullGeoAirDSS.pdf" "Temp/" "Detector with water shielding.png" "FullGeoAirInsulationSnubbed.txt" "FullGeoAirIns.pdf" "FullGeoAllAir.pdf" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/" (24055 34023 322221 927000) ".git/" "README.org" "root/" ".gitignore" "setup.py" "startup.sh" "MANIFEST.in" "python/" "requirements.txt" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/University/Year 4/Programming in C++/i2ccp/CEX/" (24038 10924 297464 474000) "CEX" "CEX.pdf" "C++ Exam .synctex.gz" "atoms.dat" "Atom.hpp" "C++ Exam .tex" ".DS_Store" "C++ Exam .aux" "C++ Exam .log" "CEX.cpp" ".atoms.dat.swp" "CEX.tar.gz" "../" "./")
+
+ ("/Users/aranborkum/Desktop/PierreHits/" (24020 62831 711057 882000) "prod_muminus_0.1-5.0GeV_isotropic_dune10kt_1x2x6.fcl" "Standard noise collection.pdf" "collection_standard.txt" "quadnoise_event.txt" "event.txt" "plotHits.py" "Standard noise simulation.pdf" "nonoise_event.txt" "Quad noise simulation.pdf" ".DS_Store" "No noise simulation.pdf" "standard_event.txt" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Presentations/Background Task Force/" (24051 48690 900189 390000) "vita_values.txt" "Neutron_backgrounds_in_DUNE_FD_dateTBD.key" "Guanying_Scaled_Neutrons.root" "Vitaly_Neutrons.root" "draw.py" "Guanying_Neutrons.root" "conc_values.txt" "BackgroundTaskForce_meeting_13_12_2019.pdf" "dumpHist.C" "values_vitaly.txt" "Images for 15_03_19/" "BackgroundTaskForce_meeting_13_12_2019.key" "values_guanying.txt" "Alpha_Issues.pdf" "BackgroundTaskForce_meeting_15_03_19.key" "FullGeometry_noInsulation.pdf" "Neutron capture on argon/" "FullGeometry_Guanying.pdf" "DUNE-FD.png" "values_concrete.txt" ".DS_Store" "Concrete_DUNE10.root" "FullGeometry_normalInsulation.pdf" "guan_values.txt" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/" (24047 29978 963958 116000) "Hold/" "dunefd/" "larfd/" "__init__.pyc" "__init__.py" "TestArena/" "fgt/" "gegede-example/" "larnd/" ".DS_Store" "Box/" "../" "./")
+
+ ("/Users/aranborkum/Desktop/Waveform-Tools/" (24037 13887 464128 829000) "Helpers.py" ".git/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Desktop/Waveform-Tools/python/protodune/" (24037 9000 843703 722000) "self-trigger-evt-disp.py" "waveform_utils.py" "../" "./")
+
+ ("/Users/aranborkum/Desktop/Waveform-Tools/python/" (24037 9000 843399 192000) "protodune/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Presentations/" (23973 33444 436914 524000) "Sim Reco Meetings/" "Supervisor Meetings/" "DAQ Consortium/" "Neutron Background/" "Collaboration Meetings/" "Background Task Force/" "LArSoft Workshops/" "EPP Group Meeting/" "Posters/" ".DS_Store" "Sussex Group Meetings/" "DAQ Conference Oxford/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/" (24022 40008 861368 48000) "duneggd.egg-info/" "duneggd/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/.emacs.d/" (24021 6423 8636 781000) "vendor/" "ede-projects.el" "yaml-mode.el" "elpa/" "fcl-mode.el" "semanticdb/" "init.el" "auto-save-list/" "config.el" "tramp" "config.org" "srecode-map.el" "smex-items" ".DS_Store" "ido.last" "snippets/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/" (24013 11513 284424 205000) "virtualenv-1.11.tar.gz" "New Geometry Neutron/" "duneggd/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/.bash_sessions/" (23819 18081 980407 534000) "3345A401-46D8-43A2-8030-5E61F216C60D.history" "8BD18A39-F2CD-4ED5-AC5D-9D6C797376EE.history" "5226379C-3580-4C34-9324-FE18E3D8D6ED.history" "8BD18A39-F2CD-4ED5-AC5D-9D6C797376EE.historynew" "8BD18A39-F2CD-4ED5-AC5D-9D6C797376EE.session" "5226379C-3580-4C34-9324-FE18E3D8D6ED.session" "3345A401-46D8-43A2-8030-5E61F216C60D.session" "3345A401-46D8-43A2-8030-5E61F216C60D.historynew" "5227DB6F-5DD8-4699-BFA0-39F24FDE7803.historynew" "_expiration_check_timestamp" "5226379C-3580-4C34-9324-FE18E3D8D6ED.historynew" "5227DB6F-5DD8-4699-BFA0-39F24FDE7803.history" "5227DB6F-5DD8-4699-BFA0-39F24FDE7803.session" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/NeuralNetwork_hitFinder/" (23992 8550 941467 127000) "HitFinderNN.py" "plotRawWaveforms.py" "event.txt" ".DS_Store" "prims.txt" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/WaveformPortfolio/" (24005 26963 268566 674000) "Beamline/" "UAngle/" "Vertical/" "ArbitraryAna_simple_hist.root" "PlotHits.py" ".DS_Store" "ArbitraryAna.root" "VAngle/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/" (24003 64935 731790 230000) "Neutrons/" "duneggd-personal/" "DUNE-Plot/" "WaveformPortfolio/" "PrettyPython/" "Low Energy Threshold/" "NeuralNetwork_hitFinder/" "HitFinder/" "Plotting/" "WaterShielding/" "GeometryStuff/" "duneggd-old/" "Clustering/" "Other/" "Latex-Template/" "Python/" "EnergyFitter/" ".DS_Store" "ClusteringOld/" "EventDisplay/" "ExaminationOfDecayModes/" "../" "./")
+
+ ("/Users/aranborkum/Desktop/LinHit/" (23984 6377 181411 128000) "LinHitFinderPass1.h" "LinHitFinder_module.cc" "LinHitFinderPass1_tool.cc" ".DS_Store" "LinHitFinderTool.h" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/TestArena/" (23959 10439 467903 879000) "larfd.cfg" "Frame.pyc" "Frame.py" ".gitignore" "test.cfg" "draw.C" "test.gdml" "World.pyc" "World.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/test/" (23955 42731 886116 845000) "Frame.pyc" "Block.py" "Block.pyc" "Frame.py" ".gitignore" "setup.py" "test.cfg" "LAr.py" "test.gdml" "World.pyc" "LAr.pyc" "World.py" "drawTest.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/root/" (23955 9888 277089 523000) "drawLArND.C" "drawFGT.C" "drawSite.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/" (23955 9473 191112 626000) "Writing/" "Data/" "Plotting/" "Presentations/" "LTA/" "Other/" "Projects/" "Gantt Plans/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/larfd/" (23953 56683 206924 27000) "larfd.cfg" "viewer.pdf" "TPCPlane.py" "Cryostat.py" "TPC.pyc" "TPCPlane.pyc" "U-low-wires.txt" "larfd_blocks.gdml" "TPC.py" "__init__.pyc" "larfd_1x2x6.gdml" "DetEncLAr.pyc" "larfd_40cm.gdml" "larfd_50cm.gdml" "larfd_10cm_nowires.gdml" "larfd_nowires.gdml" "WirePlacement.py" "larfd_blocks_nowires.gdml" "err.out" "Cryostat.pyc" "wire_pitch_explain.txt" "draw1x2x6.C" "larfd_40cm_nowires.gdml" "draw.C" "larfd_nowires.cfg" "__init__.py" "larfd_.gdml" "larfd_10cm.gdml" "test.gdml" "larfd_30cm_nowires.gdml" "larfd.gdml" "larfd_1x2x6_nowires.gdml" "Images/" "larfd_20cm_nowires.gdml" "CheckWires.py" "World.pyc" "larfd_30cm.gdml" ".DS_Store" "DetEncLAr.py" "World.py" "drawLArFD.C" "larfd_50cm_nowires.gdml" "larfd_20cm.gdml" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/gegede-example/" (23782 58733 498882 652000) "ggdex/" "README.org" ".gitignore" "setup.py" "drawRubiks.root" "ggdex.cfg" "ggdex.gdml" "drawRubiks.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/dunefd/" (23782 58733 492540 169000) "site.cfg" "fgt.cfg" "detector-only.cfg" "DetEnc.py" "__init__.py" "detector-only.gdml" ".#detector-only.cfg" "World.py" "drawSimple.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/duneggd/" (23789 16244 40236 14000) "dunefd/" "larfd/" "__init__.pyc" "__init__.py" "fgt/" "gegede-example/" "larnd/" ".DS_Store" "Box/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/python/" (23789 16239 16473 35000) "duneggd.egg-info/" "duneggd/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd-old/" (23953 56683 216374 873000) ".git/" "README.org" "root/" ".gitignore" "setup.py" "MANIFEST.in" "setenv.sh" "python/" "requirements.txt" ".DS_Store" "plots_larfd/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/test/ggdex/" (23953 64894 755169 402000) "__init__.py" "Rubiks.png" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/GeometryStuff/duneggd/python/duneggd/onion/" (23953 63149 940651 229000) "drawOnion.C" "TPCPlane.py" "onion.cfg" ".#Cryostat.py" "World.py" ".#World.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/" (23946 2528 243372 764000) "inputs/" "syst/" "__init__.py" "style.py" "config.py" ".DS_Store" "regions/" "vars/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Plotting/config/inputs/" (23945 63114 87908 283000) "Inputs.hxx" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Plotting/config/" (23945 62573 124957 793000) "inputs/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Plotting/" (23945 62504 860069 377000) "config/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/" (23890 38470 120309 262000) "plotting/" "utilities/" "config/" ".DS_Store" "run.py" "Configurations/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/" (23926 6867 17748 771000) ".git/" "README.org" "root/" ".gitignore" "setup.py" "MANIFEST.in" "setenv.sh" "python/" "requirements.txt" ".DS_Store" "plots_larfd/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/plotting/" (23889 35635 535509 442000) "input_plotting.py" "utils.py" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/.spyder/" (23468 52401 821055 345000) "history.py" "spyder.ini.bak" "history_internal.py" "langconfig" "spyder.lock" "db/" "template.py" "temp.py" ".ropeproject/" "spyder.ini" "defaults/" "onlinehelp" "workingdir" "plugins/" "../" "./")
+
+ ("/Users/aranborkum/Desktop/larfd/" (23827 28387 412273 866000) "larfd.cfg" "viewer.pdf" "TPCPlane.py" "Cryostat.py" "TPC.pyc" "TPCPlane.pyc" "U-low-wires.txt" "larfd_blocks.gdml" "TPC.py" "__init__.pyc" "larfd_1x2x6.gdml" "DetEncLAr.pyc" "larfd_40cm.gdml" "larfd_50cm.gdml" "larfd_10cm_nowires.gdml" "larfd_nowires.gdml" "WirePlacement.py" "larfd_blocks_nowires.gdml" "err.out" "info/" "Cryostat.pyc" "wire_pitch_explain.txt" "draw1x2x6.C" "larfd_40cm_nowires.gdml" "draw.C" "larfd_nowires.cfg" "__init__.py" "larfd_.gdml" "larfd_10cm.gdml" "test.gdml" "larfd_30cm_nowires.gdml" "larfd.gdml" "larfd_1x2x6_nowires.gdml" "Images/" "larfd_20cm_nowires.gdml" "CheckWires.py" "World.pyc" "larfd_30cm.gdml" ".DS_Store" "DetEncLAr.py" "Neutron_Information.pdf" "larfd_allLAr.gdml" "World.py" "larfd_allLAr_nowires.gdml" "drawLArFD.C" "larfd_50cm_nowires.gdml" "larfd_20cm.gdml" "../" "./")
+
+ ("/Users/aranborkum/Red-Optima/" (23827 28161 606637 720000) "head.C" "latlon.txt" "../" "./")
+
+ ("/Users/aranborkum/University/TIA/" (23875 63146 875682 817000) "Copy-of-Masters-Spreadsheet-Tia.2.xlsx" "data.csv" "Copy-of-Masters-Spreadsheet-Tia.2.csv" "analysis.py" ".DS_Store" "Tias presentation keynote.key" "../" "./")
+
+ ("/Users/aranborkum/Desktop/GSA/" (23877 9524 389714 872000) "downloadable_input(1).txt" "downloadable_input-1.txt" ".DS_Store" "oneing.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/" (23889 35214 372193 986000) "inputs/" "syst/" "__init__.py" "style.py" "config.py" "regions/" "vars/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/vars/" (23889 35144 620572 452000) "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/plotting/" (23881 27448 730043 282000) "utils.pyc" "n_minus_one_plotting.py" "input_plotting.py" "plot_it.pyc" "__init__.pyc" "stack_plotting.py" "utils.py" "compute_unc.pyc" "n_minus_one_plotting.pyc" "stack_plotting.pyc" "__init__.py" "input_plotting.pyc" "plot_it.py" "._n_minus_one_plotting.py" "compute_unc.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/syst/" (23889 28567 30009 305000) "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/syst/" (23566 9914 966009 694000) "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/vars/" (23566 9915 203216 587000) "__init__.pyc" ".___init__.py" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/regions/" (23889 28478 676745 506000) "utils.py" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/regions/" (23881 22829 363721 454000) "utils.pyc" "__init__.pyc" ".___init__.py" "utils.py" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/config/inputs/" (23889 28406 572553 107000) "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/config/inputs/" (23566 9915 286605 663000) "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/Python/utilities/" (23889 28236 814034 652000) "helpers.py" "parser.py" "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/utilities/" (23566 9916 760840 970000) "helpers.pyc" "helpers.py" "__init__.pyc" "buffer.pyc" "parser.py" "__init__.py" "parser.pyc" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/PrettyPython/" (23566 10044 283883 395000) "May13VRInc.log" "eT_miss/" "VRBin.log" "WZMET.log" "._run.py" "May13Slep.log" "Inc.out" "VRInc.log" "run_correlations.py" "SRSlepExtra.log" "May13VRBin.log" "WZ.log" "WZlog.log" "Slep.log" "listSamplesMC.txt" ".git/" "May10-VRBin.log" "May10-SlepArrows.log" "Fig179a" "VR1.log" "Higgs.txt" "May10-VRInc.log" "May14SlepLep.log" "WZMay13.log" "VRs.log" "VR2.log" "VR3Za-j0.log" "MM/" "moreEZMay13.log" "run.py~" "et.png" "May14SlepMET.log" "May10-WZArrows.log" ".ropeproject/" "plotting/" "mll3lZmin_VR3Za-j1.png" ".gitignore" "test_for_region.py" "VRIncMay13.log" "May11Slep.log" "utilities/" "Archive_Outputs/" "May14WZMET.log" "README.md" "ForPaper_Nicola/" "Bin.log" "May10-WZLine2.log" "May10-WZLines.log" "VRIncOn.log" "SRWZExtra.log" "output/" "my_configurations/" "recreate/" "ifs" "tableau10.txt" "SlepMET.log" "SRSlep.log" "WZ-0a-c.log" "Again2.log" ".readme" "VRIncOff.log" "VRBinMay13.log" "config/" "VRIncMay13offZa.log" "Original/" "test_for_vars.py" "VRsfuckingagain.log" "LICENSE" "VRIncMay13offZb.log" "May10-SlepLine.log" ".DS_Store" "SlepMay13.log" "SlepLepPt.log" "WZminmT.log" "WZBinAgain.log" "out.txt" "run.py" "May10-WZLine.log" "VRIncOnAgain.log" "May13WZ.log" "textformat.txt" "May14WZmT.log" "configurations/" "SRWZ.log" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/DUNE-Plot/" (23889 27413 26186 639000) ".git/" "CPP/" ".gitignore" "README.md" "Python/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/University/" (23872 10948 46557 313000) "mobileSure/" "lottery/" "Year 1/" "Java Script/" "All Papers Written/" "Summer School/" "University Results.dmg" "Tia's Results.xlsx" "Year 2/" "Year 3/" "Year 4/" "Random LaTeX/" "Python/" "DJC/" ".DS_Store" "Past Papers/" "C++/" "TIA/" "Python AT/" "Personal Statement for PhD application/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Other/DISCnet/Network/" (23819 45911 754403 91000) "East+Midlands.csv" "network.png" ".ipynb_checkpoints/" "network.py" "Write up/" "Network.ipynb" "connect.png" "this.py" "RedOptima Placement Work Sample 2019.pdf" ".DS_Store" "trial.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Other/" (23789 10443 848563 884000) "PPDT/" "Read Me, Seymore/" "Expenses and Claims/" "ISOTDAQ/" "DISCnet/" "Teaching/" "Stuff I've Read/" "Quenching in LAr/" "fermilab training recipts/" "ESTA Application.pdf" "Aran Borkum Interim Review.pdf" "Starting To Teach/" "Old Unneeded pictures/" "Starting Documents/" "Screenshot 2018-12-11 at 14.52.21.png" ".DS_Store" "argon.txt" "SPP/" "../" "./")
+
+ ("/Users/aranborkum/General/" (23720 34613 785268 156000) "Travel/" "Stanley Street/" "Movies/" "ComaSimulator/" "University/" "jar2app/" "Pictures/" "CV and Personal Statement/" "MCMoney-Maker/" ".DS_Store" "FirstYearPython/" "../" "./")
+
+ ("/Users/aranborkum/General/MCMoney-Maker/Utilities/" (23704 60058 153894 694000) "GeneratePrice.py" "../" "./")
+
+ ("/Users/aranborkum/Red-Optima/PSQL-Tests/" (23816 57661 0 0) "example_psql.py" "../" "./" ".#example_psql.py" "__pycache__/" "example_psql.py~")
+
+ ("/Users/aranborkum/Docterate/Projects/Neutrons/NeutronBackgrounRates/" (23810 18537 935916 21000) "10MeVSpectrum.txt" "Plots/" "Guanying_Scaled_Neutrons.root" "MakeTree.C" "Vitaly_Neutrons.root" "data.txt" "WriteUp/" "NeutronEnergySpectrum.pdf" "NeutronRates.py" "NeutronRates.png" "Neutron_Energy_Spectrum.png" "Guanying_Neutrons.root" "NeutronEnergySpectrumVitaly1000.pdf" "Shape.py" "NeutronEnergySpectrumConcrete.pdf" "NeutronEnergySpectrumVitaly.pdf" "Neutron_Energy_Spectrum_with_scaling_nolog.png" "Fix.py" "Spectrum.py" "Presentations/" "MakeHist.C" "AllNeutronSpectra.png" "VitalySpectrum.txt" "NeutronEnergySpectrumGuanying.pdf" "NeutronEnergies.txt" "GuanyingSpectrum.txt" "PhotonEnergies.txt" "RawDataFiles/" "AnalyseSpectra.py" "Neutron_Energy_Spectrum_with_Scaling.png" ".DS_Store" "GuanyingSpectrumScaled.txt" "Concrete_DUNE10.root" "EnergySpectrum/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/WaterShielding/" (23810 18798 700217 234000) "ShieldTests/" "test_sample_mu_hist.root" "Muon_dEdx_information.pdf" "SNAna_radiological_Concrete_hist.root" "neutron.C" "Shielding.py" "dEdx Stuff/" "test_sample_hist.root" "TestGeoAna_hist_test2.root" "Electron_dEdx_information.pdf" "shielding_nofit.png" ".DS_Store" "shielding_segmented.png" "Neutron_Information.pdf" "TestGeoAna_hist_test.root" "TestGeoAna_hist_noWaterTest.root" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/larfd/" (23807 33996 883844 408000) "larfd.cfg" "viewer.pdf" "TPCPlane.py" "Cryostat.py" "TPC.pyc" "TPCPlane.pyc" "U-low-wires.txt" "larfd_blocks.gdml" "TPC.py" "__init__.pyc" "larfd_1x2x6.gdml" "DetEncLAr.pyc" "larfd_40cm.gdml" "larfd_50cm.gdml" "larfd_10cm_nowires.gdml" "larfd_nowires.gdml" "WirePlacement.py" "larfd_blocks_nowires.gdml" "err.out" "Cryostat.pyc" "wire_pitch_explain.txt" "draw1x2x6.C" "larfd_40cm_nowires.gdml" "draw.C" "larfd_nowires.cfg" "__init__.py" "larfd_.gdml" "larfd_10cm.gdml" "test.gdml" "larfd_30cm_nowires.gdml" "larfd.gdml" "larfd_1x2x6_nowires.gdml" "Images/" "larfd_20cm_nowires.gdml" "CheckWires.py" "World.pyc" "larfd_30cm.gdml" ".DS_Store" "DetEncLAr.py" "World.py" "drawLArFD.C" "larfd_50cm_nowires.gdml" "larfd_20cm.gdml" "../" "./")
+
+ ("/Users/aranborkum/University/Year 3/MPhys Labs/HPGe/" (23460 61902 747991 217000) "Na-22 Spectrum (Channel).png" "peak data (channel)/" "peak data (energy)/" "Analysis Background/" "unknown.py" "unknown_err.txt" "Peak figures noise with shield/" "pull_and_hist.png" "noise_no_shield.txt" "Background spectrum with shield.png" "find.py" "Ba-133.txt" "fitting.py" "Co-60 Spectrum.png" "Unknown Sample Spectrum with peak reference.png" "Peak figures with channel axis/" "Co-60-long.txt" "peak data noise with shield/" "unknown_sample.txt" "Ba-133 Spectrum.png" "machine.jpeg" "Na-22 Spectrum.png" "Analysis Unknown Sample/" "real_energies.txt" "test.py" "data overload.jpeg" "peak figures (unknown sample) with energy axis/" "Na-22 Spectrum (Energy).png" "HPGe Detector Presentation.pptx" "Peak figures with energy axis/" "peak data (unknown sample) (energy)/" "Example Spectrum copy.png" "noise_shield.txt" "Co-60.txt" "unknown_energies.txt" "pitchblende.jpeg" "compton.png" "fresh outa compton.png" "trend.py" "Channel to Energy Conversion.png" "Background spectrum no shield.png" "Na-22.txt" "Na-22-long.txt" "blackrocks.jpeg" ".DS_Store" "Example Spectrum.png" "Bandssosimple.jpeg" "conversion.png" "Unknown Sample Spectrum.png" "../" "./")
+
+ ("/Users/aranborkum/University/Year 3/MPhys Labs/" (23460 61905 651676 28000) "PNMR_T1.py" "fitting.py" "Laser/" "T1 file.txt" "HPGe/" "Long Report/" "star.py" "PNMR/" "cunt/" "PNMR 1/" "HPGe_1/" ".DS_Store" "HPGe.pdf" "../" "./")
+
+ ("/Users/aranborkum/University/Year 3/" (23460 61929 527579 650000) "Condenced State Physics/" "Nuclear and Particle Physics/" "Atomic Physics/" "Advanced Condenced State Physics/" "Quantum Mechanics 2/" "FYP-2.docx" "Particle Physics/" ".DS_Store" "MPhys Labs/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/gegede-example/" (23782 58733 498882 652000) "ggdex/" "README.org" ".gitignore" "setup.py" "drawRubiks.root" "ggdex.cfg" "ggdex.gdml" "drawRubiks.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/gegede-example/ggdex/" (23782 58733 498754 580000) "__init__.py" "Rubiks.png" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/Box/" (23782 58733 491057 330000) "box.cfg" "InnerBox.py" "OuterBox.py" "box-in-box.gdml" "Rubik.py" "drawBox.C" "box.gdml" "RubikBlock.py" "World.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/larnd/" (23782 58733 505225 250000) "TPCPlane.py" "Cryostat.py" "TPC.py" "larnd.gdml" "larnd.cfg" "__init__.py" "larnd_nowires.gdml" "DetEncLAr.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/dunefd/" (23782 58733 492540 169000) "site.cfg" "fgt.cfg" "detector-only.cfg" "DetEnc.py" "__init__.py" "detector-only.gdml" ".#detector-only.cfg" "World.py" "drawSimple.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/root/" (23782 58733 506409 110000) "drawLArND.C" "drawFGT.C" "drawSite.C" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/" (23789 16244 40236 14000) "dunefd/" "larfd/" "__init__.pyc" "__init__.py" "fgt/" "gegede-example/" "larnd/" ".DS_Store" "Box/" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/" (23789 16239 16473 35000) "duneggd.egg-info/" "duneggd/" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/fgt/" (23782 58733 497402 605000) "site.cfg" "STT.py" "Radiator.py" "ECALMod.py" "MuIDBarrel.py" "STPlane.py" "Target.py" "gdml/" "fgt.cfg" "SBPlane.py" "DetEnc.py" "__init__.py" "RPCMod.py" "MuIDEnd.py" "RPCTray.py" "World.py" "Detector.py" "ECALBarrel.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/LArBox/" (23772 11354 273419 298000) "OuterLayer.py" "LArBox.cfg" "Aran_test_geo_v1.gdml" "Aran_test_geo_10cm_v1.gdml" "ArbitraryBox.py" "WaterSheet.py" "larbox.gdml" "World.py" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/GDML-Files/" (23771 56278 781884 781000) "drawBox.C" "Aran_geo_20cmwater.gdml" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/Aran-example/ggdex/" (23762 41639 894211 692000) ".#__init__.py" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/Aran-example/" (23761 38926 764813 867000) "ggdex/" "test.gdml" "ggdex.cfg" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/gegede-example/new-ggdex/" (23761 26983 521418 734000) "__init__.py" "trial.cfg" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Projects/duneggd/python/duneggd/Rubiks-Cube/" (23761 20382 144411 705000) "__init__.py" "../" "./")
+
+ ("/Users/aranborkum/General/MCMoney-Maker/" (23720 28947 514053 985000) ".git/" ".gitignore" "Utilities/" "README.md" "simulation_parameters.txt" "email.txt" "Images/" "MCCPP/" ".DS_Store" "simulation output.csv" "Rich_Dad_Analysis.py" "sim_output.jpg" "../" "./")
+
+ ("/Users/aranborkum/General/MCMoney-Maker/MCCPP/source/" (23720 28801 881331 979000) "MakeMoney.hxx" "MakeMoney.cxx" "Overlord.hxx" ".DS_Store" "CMakeLists.txt" "../" "./")
+
+ ("/Users/aranborkum/Desktop/untitled folder/" (23723 689 757860 610000) "Dinner_6_4_19.pdf" "Compton.py" "Dinner_5_4_19.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/aranborkum/Docterate/Other/DISCnet/" (23720 30079 989230 335000) "Induction/" "Scotland Workshops/" "BigDataVM/" "Network/" ".DS_Store" "Big Data Workshop/" "../" "./")
+
+ ("/Users/aranborkum/Desktop/sketch_apr05a/" (23719 15350 779229 525000) "sketch_apr05a.ino" "../" "./")
+
+ ("/Users/aranborkum/General/MCMoney-Maker/MCCPP/" (23719 4930 890708 205000) "build/" "source/" "OverlordData/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
